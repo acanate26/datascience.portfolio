@@ -23,7 +23,9 @@ Graduate Research Assistant	December                                            
 	  CUNY Graduate Center	Manhattan, NY
    
 •Built and maintained automated R and SQL pipelines to public policy datasets, supporting data governance across academic departments
+
 •Developed interactive Tableau dashboards to monitor trends across student engagement, enrollment, and financial aid indicators. 
+
 •Collaborated with institutional teams and communicated findings in presentations and written briefs 
 
 Data Intern/Community Liaison                                                                                                        Jan. 2024 – Aug.2024
