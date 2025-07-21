@@ -29,8 +29,9 @@ CUNY Graduate Center	                                                           
 
 •Collaborated with institutional teams and communicated findings in presentations and written briefs 
 
-Data Intern/Community Liaison                                                                                                        Jan. 2024 – Aug.2024
-     Neighborhood Association for Inter-Cultural Affairs                                                                                  Bronx, NY                                
+Data Intern/Community Liaison                                                                                                              Jan. 2024 – Aug.2024
+
+     Neighborhood Association for Inter-Cultural Affairs                                                                                       Bronx, NY                                
 •Maintained and validated datasets for 194+ housing sites, implementing quality control measures that improved data accuracy and supported a 20% increase in employee acquisition.
 
 •Developed Excel and Tableau reports to inform public policy recommendations on housing equity and service delivery. 
