@@ -19,7 +19,8 @@ CO2 Emissions | R Programming                                                   
 •	Analytical & Statistical Methods: Cohort Analysis, Data Visualization, Engagement Metrics, A/B Testing, Logistic Regression, Statistics, Data Management 
 
 # Experience:
-Graduate Research Assistant	December                                                                                                  2024 – June 2025
+Graduate Research Assistant	                                                                                                   December 2024 – June 2025
+
 	  CUNY Graduate Center	Manhattan, NY
    
 •Built and maintained automated R and SQL pipelines to public policy datasets, supporting data governance across academic departments
@@ -29,7 +30,7 @@ Graduate Research Assistant	December                                            
 •Collaborated with institutional teams and communicated findings in presentations and written briefs 
 
 Data Intern/Community Liaison                                                                                                        Jan. 2024 – Aug.2024
-     Neighborhood Association for Inter-Cultural Affairs                                                                               Bronx, NY                                
+     Neighborhood Association for Inter-Cultural Affairs                                                                                  Bronx, NY                                
 •Maintained and validated datasets for 194+ housing sites, implementing quality control measures that improved data accuracy and supported a 20% increase in employee acquisition.
 
 •Developed Excel and Tableau reports to inform public policy recommendations on housing equity and service delivery. 
@@ -41,7 +42,7 @@ CUNY Graduate Center			                                                         
 Master’s in Quantitative Methods in Social Sciences			                                                                                 June 2025
 
 Wells College			                                                                                                                      Aurora, NY
-Bachelor of Arts in Anthropology/Sociology                                                                                                May 2020
+Bachelor of Arts in Anthropology/Sociology                                                                                                              May 2020
 		                                               
 
 
