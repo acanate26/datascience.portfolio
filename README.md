@@ -10,7 +10,9 @@ CO2 Emissions | R Programming                                                   
 
 # Technical Skills:  
 •	Programming Languages: R, SQL, JavaScript, HTML/CSS, Stata, Excel, Python
+
 •	Software & Tools: GitHub, Google Cloud Platform, Tableau, Microsoft Word, Microsoft Excel
+
 •	Analytical & Statistical Methods: Cohort Analysis, Data Visualization, Engagement Metrics, A/B Testing, Logistic Regression, Statistics, Data Management 
 
 # Experience:
