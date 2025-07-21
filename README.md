@@ -1,11 +1,14 @@
 # PROJECTS :
-Lit Review on Anti-Intellectualism | R Programming                                                                                       July 2025
+Lit Review on Anti-Intellectualism | R Programming                                                                                     July 2025
+
 •Combined literature review with quantitative analysis in R to investigate the impact of anti-intellectualism on political and socioeconomic trends in the state of New York, utilizing the American National Election Studies (ANES) and Kaggle’s County Socioeconomic, Education, and Voting dataset. 
 
 Adulting | JavaScript, HTML, CSS+                                                                                                     March 2025 – June 2025
+
 •Developed a web-based app that maps early adult decisions using interactive visuals (GIFs, timelines, embedded media). Demonstrated front-end design and narrative data visualization.
 
-CO2 Emissions | R Programming                                                                                                              July 2025
+CO2 Emissions | R Programming                                                                                                            July 2025
+
 •This project explores carbon dioxide (CO₂) emissions by fuel and sector in New York State during 2021, using publicly available emissions data. The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Visualized geographical visualization on Tableau https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1
 
 # Technical Skills:  
