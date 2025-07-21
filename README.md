@@ -21,7 +21,7 @@ CO2 Emissions | R Programming                                                   
 # Experience:
 Graduate Research Assistant	                                                                                                   December 2024 – June 2025
 
-	  CUNY Graduate Center	Manhattan, NY
+CUNY Graduate Center	                                                                                                                Manhattan, NY
    
 •Built and maintained automated R and SQL pipelines to public policy datasets, supporting data governance across academic departments
 
@@ -40,6 +40,7 @@ Data Intern/Community Liaison                                                   
 # Education:
 CUNY Graduate Center			                                                                                                            Manhattan, NY
 Master’s in Quantitative Methods in Social Sciences			                                                                                 June 2025
+
 
 Wells College			                                                                                                                      Aurora, NY
 Bachelor of Arts in Anthropology/Sociology                                                                                                              May 2020
