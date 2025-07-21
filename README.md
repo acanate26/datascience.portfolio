@@ -16,12 +16,13 @@ CO2 Emissions | R Programming                                                   
 # Experience:
 Graduate Research Assistant	December                                                                                                  2024 – June 2025
 	  CUNY Graduate Center	Manhattan, NY
+   
 •Built and maintained automated R and SQL pipelines to public policy datasets, supporting data governance across academic departments
 •Developed interactive Tableau dashboards to monitor trends across student engagement, enrollment, and financial aid indicators. 
 •Collaborated with institutional teams and communicated findings in presentations and written briefs 
 
 Data Intern/Community Liaison                                                                                                        Jan. 2024 – Aug.2024
-     Neighborhood Association for Inter-Cultural Affairs                                                                           Bronx, NY                                
+     Neighborhood Association for Inter-Cultural Affairs                                                                               Bronx, NY                                
 •Maintained and validated datasets for 194+ housing sites, implementing quality control measures that improved data accuracy and supported a 20% increase in employee acquisition.
 •Developed Excel and Tableau reports to inform public policy recommendations on housing equity and service delivery. 
 •Processed analytical reports to inform decision-making on housing policies and community needs.
