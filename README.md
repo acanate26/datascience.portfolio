@@ -1,17 +1,26 @@
-# PROJECTS :
-Lit Review on Anti-Intellectualism | R Programming                                                                                     July 2025
+🧠 Arielle Canate | Data Science Portfolio
 
+Welcome! I'm a graduate researcher passionate about data-driven policy, front-end storytelling, and social impact analytics. This portfolio showcases selected projects in R, JavaScript, and Tableau.
+
+
+## 📂 Projects
+
+### 📘 Lit Review on Anti-Intellectualism (July 2025) 
+**Tools**: R, ANES, Kaggle, ggplot2  
 •Combined literature review with quantitative analysis in R to investigate the impact of anti-intellectualism on political and socioeconomic trends in the state of New York, utilizing the American National Election Studies (ANES) and Kaggle’s County Socioeconomic, Education, and Voting dataset. 
+[View Summary →]()
 
-Adulting | JavaScript, HTML, CSS+                                                                                                     March 2025 – June 2025
 
+### 🌐 Adulting App (Mar 2025 – Jun 2025)                                                                                                   
+**Tools**: JavaScript, HTML/CSS  
 •Developed a web-based app that maps early adult decisions using interactive visuals (GIFs, timelines, embedded media). Demonstrated front-end design and narrative data visualization.
+[View Project →]()
 
-CO2 Emissions | R Programming                                                                                                            July 2025
+### 🌎 CO₂ Emissions in NYS (July 2025)                                                                                                         
+**Tools**: R, Tableau 
+•This project explores carbon dioxide (CO₂) emissions by fuel and sector in New York State during 2021, using publicly available emissions data. The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Visualized geographical visualization on Tableau [View Dashboard →](https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1)
 
-•This project explores carbon dioxide (CO₂) emissions by fuel and sector in New York State during 2021, using publicly available emissions data. The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Visualized geographical visualization on Tableau https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1
-
-# Technical Skills:  
+## 🛠️ Technical Skills
 •	Programming Languages: R, SQL, JavaScript, HTML/CSS, Stata, Excel, Python
 
 •	Software & Tools: GitHub, Google Cloud Platform, Tableau, Microsoft Word, Microsoft Excel
@@ -23,11 +32,11 @@ Graduate Research Assistant	                                                    
 
 CUNY Graduate Center	                                                                                                                Manhattan, NY
    
-•Built and maintained automated R and SQL pipelines to public policy datasets, supporting data governance across academic departments
+•Built automated R/SQL pipelines for public policy datasets.
 
-•Developed interactive Tableau dashboards to monitor trends across student engagement, enrollment, and financial aid indicators. 
+• Created Tableau dashboards for enrollment and financial aid indicators.  
 
-•Collaborated with institutional teams and communicated findings in presentations and written briefs 
+•Collaborated on inter-departmental data governance.
 
 Data Intern/Community Liaison                                                                                                              Jan. 2024 – Aug.2024
 
@@ -38,9 +47,9 @@ Data Intern/Community Liaison                                                   
 
 •Processed analytical reports to inform decision-making on housing policies and community needs.
 
-# Education:
+## 🎓 Education
 CUNY Graduate Center			                                                                                                            Manhattan, NY
-Master’s in Quantitative Methods in Social Sciences			                                                                                 June 2025
+Master’s in Quantitative Methods in Social Sciences			                                                                                
 
 
 Wells College			                                                                                                                      Aurora, NY
