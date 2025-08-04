@@ -16,6 +16,11 @@ Welcome! I'm a graduate researcher passionate about data-driven policy, front-en
 •Developed a web-based app that maps early adult decisions using interactive visuals (GIFs, timelines, embedded media). Demonstrated front-end design and narrative data visualization.
 [View Project →](https://github.com/acanate26/Adulting-Is-Hard)
 
+### Quantitative Statistics (June 2025)
+**Tools**: R
+•Conducted explanatory analysis on a 10-year Excel dataset to examine relationships between demographic factors and how violence affects the inner communities in New York. Utilized R programming to summarize trends using bivariate analysis, statistical interventions, and data visualization. 
+[View Summary→] (https://github.com/acanate26/Quantative-Statistics-)
+
 ### 🌎 CO₂ Emissions in NYS (July 2025)                                                                                                         
 **Tools**: R, Tableau 
 •This project explores carbon dioxide (CO₂) emissions by fuel and sector in New York State during 2021, using publicly available emissions data. The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Visualized geographical visualization on Tableau [View Dashboard →](https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1)
