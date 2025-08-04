@@ -39,8 +39,7 @@ CUNY Graduate Center	                                                           
 •Collaborated on inter-departmental data governance.
 
 Data Intern/Community Liaison                                                                                                              Jan. 2024 – Aug.2024
-
-NAICA                                                                                                                                       Bronx, NY                                
+NAICA                                                                                                                                         Bronx, NY                                
 •Maintained and validated datasets for 194+ housing sites, implementing quality control measures that improved data accuracy and supported a 20% increase in employee acquisition.
 
 •Developed Excel and Tableau reports to inform public policy recommendations on housing equity and service delivery. 
@@ -51,9 +50,8 @@ NAICA                                                                           
 CUNY Graduate Center			                                                                                                            Manhattan, NY
 Master’s in Quantitative Methods in Social Sciences			                                                                                
 
-
 Wells College			                                                                                                                      Aurora, NY
-Bachelor of Arts in Anthropology/Sociology                                                                                                              May 2020
+Bachelor of Arts in Anthropology/Sociology                                                                                                              
 		                                               
 
 
