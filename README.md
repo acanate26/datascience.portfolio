@@ -1,4 +1,4 @@
-🧠 Arielle Canate | Data Science Portfolio
+🧠 Arielle Cañate | Data Science Portfolio
 
 Welcome! I'm a graduate researcher passionate about data-driven policy, front-end storytelling, and social impact analytics. This portfolio showcases selected projects in R, JavaScript, and Tableau.
 
