@@ -19,7 +19,7 @@ Welcome! I'm a graduate researcher passionate about data-driven policy, front-en
 ### Quantitative Statistics (June 2025)
 **Tools**: R
 •Conducted explanatory analysis on a 10-year Excel dataset to examine relationships between demographic factors and how violence affects the inner communities in New York. Utilized R programming to summarize trends using bivariate analysis, statistical interventions, and data visualization. 
-[View Summary→] (https://github.com/acanate26/Quantative-Statistics-)
+[View Summary→] (https://github.com/acanate26/Quantative-Statistics))
 
 ### 🌎 CO₂ Emissions in NYS (July 2025)                                                                                                         
 **Tools**: R, Tableau 
