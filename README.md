@@ -8,13 +8,13 @@ Welcome! I'm a graduate researcher passionate about data-driven policy, front-en
 ### 📘 Lit Review on Anti-Intellectualism (July 2025) 
 **Tools**: R, ANES, Kaggle, ggplot2  
 •Combined literature review with quantitative analysis in R to investigate the impact of anti-intellectualism on political and socioeconomic trends in the state of New York, utilizing the American National Election Studies (ANES) and Kaggle’s County Socioeconomic, Education, and Voting dataset. 
-[View Summary →]()
+[View Summary →](https://github.com/acanate26/Literature-Review-of-Anti-Intellectualism-)
 
 
 ### 🌐 Adulting App (Mar 2025 – Jun 2025)                                                                                                   
 **Tools**: JavaScript, HTML/CSS  
 •Developed a web-based app that maps early adult decisions using interactive visuals (GIFs, timelines, embedded media). Demonstrated front-end design and narrative data visualization.
-[View Project →]()
+[View Project →](https://github.com/acanate26/Adulting-Is-Hard)
 
 ### 🌎 CO₂ Emissions in NYS (July 2025)                                                                                                         
 **Tools**: R, Tableau 
