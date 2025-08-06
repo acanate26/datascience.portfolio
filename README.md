@@ -25,31 +25,7 @@ Welcome! I'm a graduate researcher passionate about data-driven policy, front-en
 **Tools**: R, Tableau 
 •This project explores carbon dioxide (CO₂) emissions by fuel and sector in New York State during 2021, using publicly available emissions data. The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Visualized geographical visualization on Tableau [View Dashboard →](https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1)
 
-## 🛠️ Technical Skills
-•	Programming Languages: R, SQL, JavaScript, HTML/CSS, Stata, Excel, Python
 
-•	Software & Tools: GitHub, Google Cloud Platform, Tableau, Microsoft Word, Microsoft Excel
-
-•	Analytical & Statistical Methods: Cohort Analysis, Data Visualization, Engagement Metrics, A/B Testing, Logistic Regression, Statistics, Data Management 
-
-# Experience:
-Graduate Research Assistant	                                                                                                   December 2024 – June 2025
-
-CUNY Graduate Center	                                                                                                                Manhattan, NY
-   
-•Built automated R/SQL pipelines for public policy datasets.
-
-• Created Tableau dashboards for enrollment and financial aid indicators.  
-
-•Collaborated on inter-departmental data governance.
-
-Data Intern/Community Liaison                                                                                                              Jan. 2024 – Aug.2024
-NAICA                                                                                                                                         Bronx, NY                                
-•Maintained and validated datasets for 194+ housing sites, implementing quality control measures that improved data accuracy and supported a 20% increase in employee acquisition.
-
-•Developed Excel and Tableau reports to inform public policy recommendations on housing equity and service delivery. 
-
-•Processed analytical reports to inform decision-making on housing policies and community needs.
 
 ## 🎓 Education
 CUNY Graduate Center			                                                                                                            Manhattan, NY
