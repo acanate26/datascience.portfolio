@@ -6,7 +6,8 @@ Welcome! I'm a graduate researcher passionate about data-driven policy, front-en
 ## 📂 Projects
 
 ### NYC Demographic Analysis (Jan 2026)
-**Tools**: R, Open Source Data
+**Tools**: R, Open Source Data, ggplot2
+
 •Conducted comprehensive analysis of New York City Housing Authority (NYCHA) residential buildings across NYC's five boroughs. The analysis examines geographic distribution patterns, development characteristics, and concentration metrics using 2,964 residential building records. [View Project→](https://github.com/acanate26/NYC-Demographic-Analysis-) 
 
 ### 📘 Lit Review on Anti-Intellectualism (July 2025) 
